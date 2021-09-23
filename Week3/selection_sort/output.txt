@@ -1,0 +1,6 @@
+-9 1 23 87 93 
+Comparison :10
+Swaps :4
+-21 -13 12 45 46 65 76 89 
+Comparison :28
+Swaps :7
