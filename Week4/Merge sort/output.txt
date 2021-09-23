@@ -1,0 +1,12 @@
+21 23 32 45 46 65 76 89 
+Compresion :16
+Inversions :13
+21 34 46 51 53 54 65 76 78 97 
+Compresion :22
+Inversions :27
+12 22 31 42 46 54 63 65 86 223 324 325 553 645 652 
+Compresion :43
+Inversions :54
+1 2 3 4 5 
+Compresion :5
+Inversions :10
