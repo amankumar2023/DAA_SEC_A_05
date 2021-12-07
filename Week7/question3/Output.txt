@@ -1,0 +1,2 @@
+shotest path :1 4 
+weight : 2
